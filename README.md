@@ -25,3 +25,27 @@
 - DDL (Data Definition Language) É o conjunto de comandos para criação das entidades do banco de dados relacional. CREATE, ALTER, TRUNCATE, DROP.
 - DML: INSERT, UPDATE, DELETE, LOCK.
 - DCL: COMMIT, ROLLBACK, SAVEPOINT.
+
+**História da Oracle**
+- 1977 - Projeto CIA
+- 1978 - Criação da RSI
+- 1979 - Primeira versão Assembler
+- 1982 - Mudança no nome da Oracle
+- 1983 - Primeira versão em C
+- 1984 - Versão para PC
+- 1987 - Maior empresa de Banco de Dados
+- 1988 - Versão com bloqueio de linha
+- 1992 - Versão V7
+- 1993 - Interface GUI
+- 1994 - Morte de um dos fundadores
+- 1995 - 64 bits
+- 1996 - Oracle 7.3
+- 1997 - Oracle 8 Web
+- 1998 - Oracle versão Linux
+- 1999 - Oracle versão 8I
+- 2000 - Oracle versão 9I
+- 2003 - Oracle versão 10G GRID
+- 2007 - Oracle 11G
+- 2013 - Oracle 12C
+- 2018 - Oracle 18/19C
+- Versão atual - 21C
