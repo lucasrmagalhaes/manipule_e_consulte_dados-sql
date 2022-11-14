@@ -191,4 +191,7 @@ Campos Binários
     - Se ele já realizou a primeira compra
 
 **Criando a primeira tabela**
-* [criando_primeira_tabela]()
+* [criando_primeira_tabela](https://github.com/lucasrmagalhaes/oracle-sql/blob/main/criando_primeira_tabela.sql)
+
+**Criando uma tabela usando o assistente**
+* [tabela_produtos]()
