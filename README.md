@@ -20,3 +20,8 @@
 **Desvantagens da Padronização do SQL**
 - Falta de criatividade
 - Falta de estrutura
+
+**Grupo de comandos SQL**
+- DDL: CREATE, ALTER, TRUNCATE, DROP.
+- DML: INSERT, UPDATE, DELETE, LOCK.
+- DCL: COMMIT, ROLLBACK, SAVEPOINT.
