@@ -170,7 +170,7 @@ Campos Binários
 - NVARCHAR usa uma tabela de códigos de caracteres entendida, comportando diversos idiomas, enquanto a VARCHAR usa uma tabela reduzida, para identificação dos caracteres do texto.
 
 **Conhecendo o SQL Developer**
-* [conhecendo_sql_developer]()
+* [conhecendo_sql_developer](https://github.com/lucasrmagalhaes/oracle-sql/blob/main/conhecendo_sql_developer.sql)
 
 **Preparando o banco a ser criado**
 - Modelo Relacional
@@ -189,3 +189,6 @@ Campos Binários
     - O limite de crédito para ele comprar produtos
     - O volume mínimo de sucos que ele pode comprar
     - Se ele já realizou a primeira compra
+
+**Criando a primeira tabela**
+* [criando_primeira_tabela]()
