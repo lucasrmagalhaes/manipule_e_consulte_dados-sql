@@ -22,6 +22,6 @@
 - Falta de estrutura
 
 **Grupo de comandos SQL**
-- DDL: CREATE, ALTER, TRUNCATE, DROP.
+- DDL (Data Definition Language) É o conjunto de comandos para criação das entidades do banco de dados relacional. CREATE, ALTER, TRUNCATE, DROP.
 - DML: INSERT, UPDATE, DELETE, LOCK.
 - DCL: COMMIT, ROLLBACK, SAVEPOINT.
