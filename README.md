@@ -170,7 +170,22 @@ Campos Binários
 - NVARCHAR usa uma tabela de códigos de caracteres entendida, comportando diversos idiomas, enquanto a VARCHAR usa uma tabela reduzida, para identificação dos caracteres do texto.
 
 **Conhecendo o SQL Developer**
-```sql
-SELECT * FROM LOGMNR_CCOL$;
-SELECT * FROM LOGMNR_DID$;
-```
+* [conhecendo_sql_developer]()
+
+**Preparando o banco a ser criado**
+- Modelo Relacional
+    - Conhecer o negócio;
+    - Diagrama de entidades;
+    - Modelo de entidade e relacionamentos; e
+    - Metadados.
+
+- Cadastro de Clientes
+    - CPF do cliente
+    - O nome completo
+    - Endereço (Rua, bairro, cidade, estado e CEP)
+    - Data de nascimento
+    - A idade
+    - O sexo
+    - O limite de crédito para ele comprar produtos
+    - O volume mínimo de sucos que ele pode comprar
+    - Se ele já realizou a primeira compra
