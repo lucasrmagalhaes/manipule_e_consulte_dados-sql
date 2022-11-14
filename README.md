@@ -71,3 +71,6 @@
 - Porta: 1521
 - Salvar
 - Conectar
+
+**Significado de Localhost**
+- Endereço da própria máquina.
