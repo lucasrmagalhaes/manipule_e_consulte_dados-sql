@@ -60,3 +60,14 @@
 - Windows 64-bit with JDK 11 included
 
 [Oracle Developer](https://www.oracle.com/database/sqldeveloper/technologies/download/)
+
+**Criando a conexão**
+- Criar uma Conexão Manualmente
+- Name: CONEXÃO MÁQUINA LOCAL
+- Nome do Usuário: system
+- Senha: Senha da instalação
+- [x] Salvar Senha
+- Nome do Host: localhost
+- Porta: 1521
+- Salvar
+- Conectar
