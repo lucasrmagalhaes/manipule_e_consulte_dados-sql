@@ -49,3 +49,8 @@
 - 2013 - Oracle 12C
 - 2018 - Oracle 18/19C
 - Versão atual - 21C
+
+**Instalando o Oracle Express Edition**
+- Versão enxuta do Oracle que é usada justamente para estudo, para desenvolvimento e é uma versão gratuita.
+
+[Oracle Database 21c Express Edition](https://www.oracle.com/br/database/technologies/xe-downloads.html)
