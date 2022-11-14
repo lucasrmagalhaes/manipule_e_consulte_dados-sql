@@ -195,3 +195,6 @@ Campos Binários
 
 **Criando uma tabela usando o assistente**
 * [tabela_produtos]()
+
+**Apagando tabelas**
+* [apagando_tabelas]()
