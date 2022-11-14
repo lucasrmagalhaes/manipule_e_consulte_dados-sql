@@ -69,7 +69,7 @@
 **Criando a conexão**
 - Criar uma Conexão Manualmente
 - Name: CONEXÃO MÁQUINA LOCAL
-- Nome do Usuário: system
+- Nome do Usuário: SYS, SYSTEM e PDBADMIN
 - Senha: Senha da instalação
 - [x] Salvar Senha
 - Nome do Host: localhost
@@ -111,3 +111,57 @@ Tabela
 Visão
 - Consulta
     - Visão
+
+**Tipos de campos**
+
+Campos Textos
+- CHAR
+    - Armazena cadeias de caracteres de comprimento fixo. A criar um campo CHAR precimos definir o comprimento deste campo (1 a 2000 caracteres).
+    - O valor é fixo. Se temos um campo CHAR(10) e inserimos um texto de 5 caracteres, o Oracle irá preencher o campo com mais 5 vazios.
+    - Se o valor for muito grande haverá um retorno de erro.
+- VARCHAR e VARCHAR2
+    - Armazena cadeias de caracteres de comprimento variável. A criar um campo CHAR precisamos definir o comprimento deste campo ( 1 a 4000 caracteres).
+    - O valor é variável. Se temos um campo VARCHAR(10) e inserimos um texto de 5 caracteres, o Oracle irá preencher o campo somente com os 5 caracteres.
+    - Se o valor for muito grande haverá um retorno de erro.
+    - VARCHAR e VARCHAR2 são sinônimos. Use sempre VARCHAR2.
+- NCHAR, NVARCHAR e NVARCHAR2
+    - Armazena cadeias de caracteres de comprimento fixo ou variável, mas são caracteres Unicode.
+    - Respeita as caraterísticas do CHAR, VARCHAR e VARCHAR2.
+    - Unicode - Fornece um único conjunto de caracteres contendo os idiomas do mundo.
+- CLOB e NLOB
+    - São campos longos que podem armazenar até 8 Terabytes de dados, por campo.
+    - CLOB e NLOB correspondem a VARCHAR2 e NVARCHAR2.
+    - Existem um tipo chamado LONG mas que não deve ser mais usado nas versões atuais. Ele existe apenas para manter compatibilidade com bancos de dados Oracle antigos.
+- NUMBER
+    - Armazena números de tamanho fixo e de ponto flutuante. Qualquer número pode ser armazenado neste campo, até 38 dígitos de precisão.
+    - Números positivos, negativos e zero.
+    - Opcionalmente podemos determinar a precisão incluindo a escala e a precisão.
+    - EX.: Number(10,2)
+
+Campos Numéricos
+    - INTEGER
+    - SHORTINTEGER
+    - LONGINTEGER
+    - DECIMAL
+    - SHORTDECIMAL
+
+Campos Datas
+- DATE
+    - O campo DATE armazena dados no formato data e hora.
+    - O próprio Oracle tem sua forma interna de armazenar a data. Ela é exibida, na sua foma padrão como: DD-MM-YY.
+    - Na hora de incluir dados o campo usa como padrão 00:00:00AM como hora na data. A não ser que isso seja explicitamente especificado.
+- Curiosidade
+    - O Oracle é inteligente a desprezar datas que não existem:
+        - Quando o calendário Juliano foi implementado 10 dias foram suprimidos.
+        - Ele deu um pulo entre a data 04-10-1582 e 10-10-1582.
+        - Logo, para o Oracle, o dia seguinte a 04-10-1582 será 10-10-1582 e este saldo é incluído em todas as funções de data internas.
+- TIMESTAMP
+- TIMESTAMP WITH TIME ZONE
+- TIMESTAMP WITH LOCAL TIMEZONE
+    - São tipos especiais que levam em conta milésimos de segundos, fusos horários e, inclusive, horário de verão.
+
+Campos Binários
+- BLOB
+    - Armazena dados binários não estruturados no banco de dados. BLOBs pode armazenar até 128 terabytes de dados binários.
+- BFILE
+    - Armazena dados binários não estruturados em arquivos do sistema operacional fora do banco de dados.
