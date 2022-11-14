@@ -5,3 +5,7 @@
 - SQL - 92 - Primeira versão realmente usada que guarda uma estrutura até hoje.
 - Todos os softwares de banco de dados adotaram o SQL ANSI como padrão.
 - SQL evoluiu a ser mais do que uma linguagem de consulta, suportando manutenção de dados e administração do banco.
+
+**Vantagens do banco de dados relacional**
+- Os bancos de dados relacionais armazenam os dados de forma mais otimizada, economizando espaço em disco.
+- As regras de relacionamentos entre as entidades que compõem o banco de dados relacional podem ser programadas no próprio banco, enquanto nos bancos de dados sequenciais estas relações devem estar contidas no programa ou aplicação no qual elas estão acessando.
