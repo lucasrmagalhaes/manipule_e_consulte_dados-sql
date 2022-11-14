@@ -165,3 +165,6 @@ Campos Binários
     - Armazena dados binários não estruturados no banco de dados. BLOBs pode armazenar até 128 terabytes de dados binários.
 - BFILE
     - Armazena dados binários não estruturados em arquivos do sistema operacional fora do banco de dados.
+
+**VARCHAR vs NVARCHAR**
+- NVARCHAR usa uma tabela de códigos de caracteres entendida, comportando diversos idiomas, enquanto a VARCHAR usa uma tabela reduzida, para identificação dos caracteres do texto.
