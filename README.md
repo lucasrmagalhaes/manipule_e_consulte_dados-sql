@@ -54,3 +54,9 @@
 - Versão enxuta do Oracle que é usada justamente para estudo, para desenvolvimento e é uma versão gratuita.
 
 [Oracle Database 21c Express Edition](https://www.oracle.com/br/database/technologies/xe-downloads.html)
+
+**Instalando o Oracle Developer**
+- IDE - Integrated Developmente Environment
+- Windows 64-bit with JDK 11 included
+
+[Oracle Developer](https://www.oracle.com/database/sqldeveloper/technologies/download/)
