@@ -9,3 +9,14 @@
 **Vantagens do banco de dados relacional**
 - Os bancos de dados relacionais armazenam os dados de forma mais otimizada, economizando espaço em disco.
 - As regras de relacionamentos entre as entidades que compõem o banco de dados relacional podem ser programadas no próprio banco, enquanto nos bancos de dados sequenciais estas relações devem estar contidas no programa ou aplicação no qual elas estão acessando.
+
+**Vantagens e desvantagens da padronização**
+- Aprendizado
+- Portabilidade
+- Longevidade
+- Comunicação
+- Liberdade de escolha
+
+**Desvantagens da Padronização do SQL**
+- Falta de criatividade
+- Falta de estrutura
