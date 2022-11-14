@@ -1,8 +1,10 @@
 ### SQL com Oracle Database: manipule e consulte dados
 
 **História da Linguagem SQL**
-- SEQUEL - Linguagem de Consulta Estruturada. Abreviada para SQL (Structure Query Language).
-- SQL - 92 - Primeira versão realmente usada que guarda uma estrutura até hoje.
+- SEQUEL
+    - Linguagem de Consulta Estruturada. Abreviada para SQL (Structure Query Language).
+- SQL - 92
+    - Primeira versão realmente usada que guarda uma estrutura até hoje.
 - Todos os softwares de banco de dados adotaram o SQL ANSI como padrão.
 - SQL evoluiu a ser mais do que uma linguagem de consulta, suportando manutenção de dados e administração do banco.
 
@@ -22,9 +24,12 @@
 - Falta de estrutura
 
 **Grupo de comandos SQL**
-- DDL (Data Definition Language) É o conjunto de comandos para criação das entidades do banco de dados relacional. CREATE, ALTER, TRUNCATE, DROP.
-- DML: INSERT, UPDATE, DELETE, LOCK.
-- DCL: COMMIT, ROLLBACK, SAVEPOINT.
+- DDL (Data Definition Language) 
+    - É o conjunto de comandos para criação das entidades do banco de dados relacional. CREATE, ALTER, TRUNCATE, DROP.
+- DML
+    - INSERT, UPDATE, DELETE, LOCK.
+- DCL
+    - COMMIT, ROLLBACK, SAVEPOINT.
 
 **História da Oracle**
 - 1977 - Projeto CIA
@@ -74,3 +79,34 @@
 
 **Significado de Localhost**
 - Endereço da própria máquina.
+
+**Entidades de um banco de dados**
+- Tablespace
+    - Tabelas
+    - Visões (Views)
+    - Procedures ou Funções (PL/SQL)
+    - TRIGGER
+
+Tabela
+- Linhas e colunas.
+- Número de linhas quantas o espaço em disco comportar.
+- Número de colunas é limitado. 
+    - Associado a definição da tabela.
+- Chamamos estas colunas de CAMPOS.
+- As linhas chamamos de REGISTROS ou LINHAS.
+- CAMPOS possuem definições rígidas. 
+    - TIPO deve ser único.
+- CHAVE PRIMÁRIA (NÃO É OBRIGATÓRIO)
+    - Colunas cujos valores não podem se repetir nas linhas da tabela.
+- CHAVE ESTRANGEIRA 
+    - Faz a ligação entre dois campos de duas tabelas diferentes.
+    - Os campos devem ter as mesmas propriedades.
+    - O campo no qual a chave estrangeira se liga deve ser uma chave primária.
+- Índice
+    - Ajuda a fazer buscar mais rápidas associadas aquela coluna.
+    - Toda a chave primária vai ter um índice criado.
+    - Podemos ter colunas que não sejam chaves primárias mas que tenham índices.
+
+Visão
+- Consulta
+    - Visão
