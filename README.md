@@ -168,3 +168,9 @@ Campos Binários
 
 **VARCHAR vs NVARCHAR**
 - NVARCHAR usa uma tabela de códigos de caracteres entendida, comportando diversos idiomas, enquanto a VARCHAR usa uma tabela reduzida, para identificação dos caracteres do texto.
+
+**Conhecendo o SQL Developer**
+```sql
+SELECT * FROM LOGMNR_CCOL$;
+SELECT * FROM LOGMNR_DID$;
+```
