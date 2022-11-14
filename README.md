@@ -97,6 +97,7 @@ Tabela
 - CAMPOS possuem definições rígidas. 
     - TIPO deve ser único.
 - CHAVE PRIMÁRIA (NÃO É OBRIGATÓRIO)
+    - É a referência a colunas (campos) cujos valores não podem se repetir em outras linhas da mesma tabela.
     - Colunas cujos valores não podem se repetir nas linhas da tabela.
 - CHAVE ESTRANGEIRA 
     - Faz a ligação entre dois campos de duas tabelas diferentes.
