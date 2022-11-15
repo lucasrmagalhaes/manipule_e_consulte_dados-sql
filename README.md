@@ -216,4 +216,7 @@ Campos Binários
 * [incluindo_outros_vendedores](https://github.com/lucasrmagalhaes/oracle-sql/blob/main/incluindo_outros_vendedores.sql)
 
 **Alterando dados da tabela**
-* [alterando_dados_tabela]()
+* [alterando_dados_tabela](https://github.com/lucasrmagalhaes/manipule_e_consulte_dados-sql/blob/main/alterando_dados_tabela.sql)
+
+**Alterando comissões de vendedores**
+* [alterando_comissoes_vendedores]()
