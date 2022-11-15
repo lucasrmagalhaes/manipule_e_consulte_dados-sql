@@ -249,4 +249,7 @@ Campos Binários
 * [filtros_condicionais](https://github.com/lucasrmagalhaes/manipule_e_consulte_dados-sql/blob/main/filtros_condicionais.sql)
 
 **Filtros com datas**
-* [filtros_datas]()
+* [filtros_datas](https://github.com/lucasrmagalhaes/manipule_e_consulte_dados-sql/blob/main/filtros_datas.sql)
+
+**Filtros compostos**
+* [filtros_compostos]()
