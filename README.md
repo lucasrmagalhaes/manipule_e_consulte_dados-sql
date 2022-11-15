@@ -243,4 +243,7 @@ Campos Binários
 * [recriando_base_dados](https://github.com/lucasrmagalhaes/manipule_e_consulte_dados-sql/blob/main/recriando_base_dados.sql)
 
 **Filtrando o resultado das consultas**
-* [filtrando_resultados]()
+* [filtrando_resultados](https://github.com/lucasrmagalhaes/manipule_e_consulte_dados-sql/blob/main/filtrando_resultados.sql)
+
+**Filtros condicionais**
+* [filtros_condicionais]()
