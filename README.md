@@ -228,4 +228,7 @@ Campos Binários
 * [excluindo_um_vendedor](https://github.com/lucasrmagalhaes/manipule_e_consulte_dados-sql/blob/main/excluindo_um_vendedor.sql)
 
 **Incluindo a chave primária na tabela**
-* [incluindo_chave_primaria]()
+* [incluindo_chave_primaria](https://github.com/lucasrmagalhaes/manipule_e_consulte_dados-sql/blob/main/incluindo_chave_primaria.sql)
+
+**Criação de chave primária para vendedores**
+* [criacao_chave_primaria_vendedores]()
