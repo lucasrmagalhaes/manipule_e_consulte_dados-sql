@@ -225,4 +225,7 @@ Campos Binários
 * [excluindo_registros](https://github.com/lucasrmagalhaes/manipule_e_consulte_dados-sql/blob/main/excluindo_registros.sql)
 
 **Excluindo um vendedor**
-* [excluindo_um_vendedor]()
+* [excluindo_um_vendedor](https://github.com/lucasrmagalhaes/manipule_e_consulte_dados-sql/blob/main/excluindo_um_vendedor.sql)
+
+**Incluindo a chave primária na tabela**
+* [incluindo_chave_primaria]()
