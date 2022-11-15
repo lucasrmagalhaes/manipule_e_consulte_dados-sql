@@ -210,4 +210,7 @@ Campos Binários
 [primeiro_vendedor](https://github.com/lucasrmagalhaes/oracle-sql/blob/main/primeiro_vendedor.sql)
 
 **Inserindo vários registros na tabela**
-[inserindo_varios_registros]()
+[inserindo_varios_registros](https://github.com/lucasrmagalhaes/oracle-sql/blob/main/inserindo_varios_registros.sql)
+
+**Incluindo outros vendedores**
+[incluindo_outros_vendedores]()
