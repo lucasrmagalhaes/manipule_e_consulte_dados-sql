@@ -194,7 +194,14 @@ Campos Binários
 * [criando_primeira_tabela](https://github.com/lucasrmagalhaes/oracle-sql/blob/main/criando_primeira_tabela.sql)
 
 **Criando uma tabela usando o assistente**
-* [tabela_produtos]()
+* [tabela_produtos](https://github.com/lucasrmagalhaes/oracle-sql/blob/main/tabela_produtos.sql)
 
 **Apagando tabelas**
-* [apagando_tabelas]()
+* [apagando_tabelas](https://github.com/lucasrmagalhaes/oracle-sql/blob/main/apagando_tabelas.sql)
+
+**Inserindo registros na tabela**
+- Arquivo
+    - Novo
+        - Arquivos de Banco de Dados
+
+[inserindo_registros_na_tabela]()
