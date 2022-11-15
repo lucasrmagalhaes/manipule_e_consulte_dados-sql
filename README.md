@@ -219,4 +219,7 @@ Campos Binários
 * [alterando_dados_tabela](https://github.com/lucasrmagalhaes/manipule_e_consulte_dados-sql/blob/main/alterando_dados_tabela.sql)
 
 **Alterando comissões de vendedores**
-* [alterando_comissoes_vendedores]()
+* [alterando_comissoes_vendedores](https://github.com/lucasrmagalhaes/manipule_e_consulte_dados-sql/blob/main/alterando_comissoes_vendedores.sql)
+
+**Excluindo registros**
+* [excluindo_registros]()
