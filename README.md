@@ -231,4 +231,7 @@ Campos Binários
 * [incluindo_chave_primaria](https://github.com/lucasrmagalhaes/manipule_e_consulte_dados-sql/blob/main/incluindo_chave_primaria.sql)
 
 **Criação de chave primária para vendedores**
-* [criacao_chave_primaria_vendedores]()
+* [criacao_chave_primaria_vendedores](https://github.com/lucasrmagalhaes/manipule_e_consulte_dados-sql/blob/main/criacao_chave_primaria_vendedores.sql)
+
+**Manipulando campos de datas**
+* [manipulando_campos_datas]()
