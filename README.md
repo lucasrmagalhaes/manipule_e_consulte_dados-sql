@@ -240,4 +240,7 @@ Campos Binários
 * [novos_vendedores](https://github.com/lucasrmagalhaes/manipule_e_consulte_dados-sql/blob/main/novos_vendedores.sql)
 
 **Recriando a base de dados**
-* [recriando_base_dados]()
+* [recriando_base_dados](https://github.com/lucasrmagalhaes/manipule_e_consulte_dados-sql/blob/main/recriando_base_dados.sql)
+
+**Filtrando o resultado das consultas**
+* [filtrando_resultados]()
