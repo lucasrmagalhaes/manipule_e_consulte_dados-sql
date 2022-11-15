@@ -204,4 +204,7 @@ Campos Binários
     - Novo
         - Arquivos de Banco de Dados
 
-[inserindo_registros_na_tabela]()
+[inserindo_registros_na_tabela](https://github.com/lucasrmagalhaes/oracle-sql/blob/main/inserindo_registros_na_tabela.sql)
+
+**Incluindo o primeiro vendedor**
+[primeiro_vendedor]()
