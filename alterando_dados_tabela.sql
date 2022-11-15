@@ -1,0 +1,17 @@
+SELECT * FROM TB_PRODUTOS;
+
+UPDATE 
+    TB_PRODUTOS 
+SET 
+    EMBALAGEM = 'Lata'
+WHERE
+    PRODUTO = '1037797';
+
+UPDATE 
+    TB_PRODUTOS 
+SET 
+    NOME = 'Clean - 350 ml - Laranja',
+    TAMANHO = '350 ml',
+    PRECO_LISTA 5.50
+WHERE
+    PRODUTO = '1037797';
