@@ -222,4 +222,7 @@ Campos Binários
 * [alterando_comissoes_vendedores](https://github.com/lucasrmagalhaes/manipule_e_consulte_dados-sql/blob/main/alterando_comissoes_vendedores.sql)
 
 **Excluindo registros**
-* [excluindo_registros]()
+* [excluindo_registros](https://github.com/lucasrmagalhaes/manipule_e_consulte_dados-sql/blob/main/excluindo_registros.sql)
+
+**Excluindo um vendedor**
+* [excluindo_um_vendedor]()
