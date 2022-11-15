@@ -252,4 +252,11 @@ Campos Binários
 * [filtros_datas](https://github.com/lucasrmagalhaes/manipule_e_consulte_dados-sql/blob/main/filtros_datas.sql)
 
 **Filtros compostos**
-* [filtros_compostos]()
+* [filtros_compostos](https://github.com/lucasrmagalhaes/manipule_e_consulte_dados-sql/blob/main/filtros_compostos.sql)
+
+**Ponto de atenção ao fechar o SQL Developer**
+- Commit das Alterações
+    - Devolver para o banco e fazer todas as alterações
+- Efetuar Rollback das Alterações
+    - Esquece todas as modificações
+- Abortar desconexão da conexão
